@@ -11,3 +11,32 @@
     font-size: 15px;
     font-family: "Julius Sans One", sans-serif;
 }
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+th {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: bold;
+    height: 75px;
+}
+
+td {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: bold;
+}
+
+tr {
+    height: 50px;
+}
+
+p {
+    font-size: 10px;
+}
