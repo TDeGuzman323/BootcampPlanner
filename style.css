@@ -1,12 +1,13 @@
 .content {
-    max-width: 500px;
+    max-width: 800px;
     margin: auto;
 }
 
-h1 {
+.header {
     text-align: center;
-}
-
-h2 {
-    text-align: center;
+    padding: 60px;
+    background-color: lightgray;
+    color: gray;
+    font-size: 15px;
+    font-family: "Julius Sans One", sans-serif;
 }
