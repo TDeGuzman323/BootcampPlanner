@@ -7,3 +7,6 @@ $('time').each(function(i, e) {
         $(e).html('<span>' + time.from(now) + '</span>');
     }
 });
+
+
+moment().format('MMMM Do YYYY, h:mm:ss a');
